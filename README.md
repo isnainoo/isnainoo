@@ -13,7 +13,6 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **[Proyek saat ini]**
 - 🌱 I’m currently learning **Microservices**
 - 💬 Ask me about **Backend Developer**
 - ⚡ Fun fact: **Playing PUBG**
