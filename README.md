@@ -6,30 +6,46 @@
 <h3 align="center">A passionate Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <a href="#">Portfolio</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">Email</a>
+  <a href="https://isnainoo-personalwebsite.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/isnainoo/">LinkedIn</a> •
+  <a href="isnachoiron73@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **New Tech Stacks**
+- 🔭 I’m currently working on **Laman sawit**
+- 🌱 I’m currently learning **Microservices**
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about **Coding & Tech**
 
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+
+  <!-- Backend Frameworks & Runtime -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+
+  <!-- Frontend Basics -->
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isnainoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
