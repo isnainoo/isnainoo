@@ -15,7 +15,6 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **Laman sawit**
 - 🌱 I’m currently learning **Microservices**
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about **Coding & Tech**
