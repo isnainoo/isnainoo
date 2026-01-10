@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=isnainoo&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm isnainoo! 👋</h1>
