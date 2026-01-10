@@ -33,12 +33,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isnainoo&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnainoo&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=isnainoo&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isnainoo&theme=radical" alt="streak stats" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnainoo&layout=compact&theme=radical)
