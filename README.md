@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=isnainoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=isnainoo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isnainoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isnainoo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
