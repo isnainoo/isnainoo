@@ -31,8 +31,10 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=isnainoo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=isnainoo&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=isnainoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnainoo&layout=compact&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
