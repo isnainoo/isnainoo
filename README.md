@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm isnainoo! 👋</h1>
-<h3 align="center">A passionate Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Developer from Pekalongan, Indonesia</h3>
 
 <p align="center">
   <a href="https://isnainoo-personalwebsite.vercel.app/">Portfolio</a> •
