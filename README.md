@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Developer from Pekalongan, Indonesia</h3>
 
 <p align="center">
-  <a href="https://isnainoo-personalwebsite.vercel.app/">Portfolio</a> •
+  <a href="https://isnainoo-personalwebsite.vercel.app/">Personal website</a> •
   <a href="https://www.linkedin.com/in/isnainoo/">LinkedIn</a> •
   <a href="isnachoiron73@gmail.com">Email</a>
 </p>
