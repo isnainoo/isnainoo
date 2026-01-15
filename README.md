@@ -11,6 +11,17 @@
     style="border-radius: 50%;"
   />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
+  <br/>
+  <img 
+    src="https://github.com/isnainoo/isnainoo/blob/main/IMG_0326.jpg" 
+    width="220" 
+    style="border-radius:50%;" 
+  />
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Golang+%7C+Laravel+%7C+Node.js" />
 </div>
