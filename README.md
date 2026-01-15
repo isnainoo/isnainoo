@@ -6,7 +6,7 @@
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/isnainoo/repo/main/IMG_0083.jpg" 
+    src="https://github.com/isnainoo/isnainoo/blob/main/IMG_0083.jpg" 
     width="220"
     style="border-radius: 50%;"
   />
