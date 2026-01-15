@@ -63,5 +63,8 @@
 
 
 ## 🚀 Top Contributions
+<h2 align="center">🌊 Contribution Wave</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=isnainoo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isnainoo&theme=react-dark" />
+</div>
