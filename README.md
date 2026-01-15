@@ -3,6 +3,20 @@
 </div>
 
 <h1 align="center">Hi there, I'm isnainoo! 👋</h1>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/username/repo/main/foto-kamu.png" 
+    width="220"
+    style="border-radius: 50%;"
+  />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Golang+%7C+Laravel+%7C+Node.js;Open+Source+Enthusiast" />
+</div>
+
+
 <h3 align="center">A passionate Developer from Pekalongan, Indonesia</h3>
 
 <p align="center">
