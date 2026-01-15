@@ -12,7 +12,7 @@
   />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Golang+%7C+Laravel+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Golang+%7C+Laravel+%7C+Node.js;Fullstack+Developer" />
 </div>
 <p align="center">
   <a href="https://isnainoo-personalwebsite.vercel.app/">Personal website</a> •
