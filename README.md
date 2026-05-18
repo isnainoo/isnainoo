@@ -67,16 +67,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnainoo&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
-
 ## 🚀 Top Contributions
-<h2 align="center">🌊 Contribution Wave </h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isnainoo&theme=react-dark" />
-</div>
+<h2 align="center">🌊 Contribution Wave</h2>
 
-<h2 align="center">🏙️ GitHub Skyline </h2>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=isnainoo&theme=tokyo-night&hide_border=true" 
+    width="95%"
+  />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/isnainoo/isnainoo/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+<h2 align="center">🏙️ GitHub Skyline</h2>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/isnainoo/isnainoo/main/profile-3d-contrib/profile-night-rainbow.svg" 
+    width="95%"
+  />
+</p>
