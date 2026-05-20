@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90" width="100%"/>
 </div>
-<h1 align="center">Hi there, I'm isnainoo!!! 👋</h1>
+<h1 align="center">Hi there, I'm isnainoo_!!! 👋</h1>
 
 <div align="center">
   <img 
