@@ -1,46 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90" width="100%"/>
 </div>
 <h1 align="center">Hi there, I'm isnainoo_!! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer;Golang+%7C+Laravel+%7C+Node.js;Fullstack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer;Golang+%7C+Laravel+%7C+Node.js;Fullstack+Developer" />
 </div>
 <p align="center">
-  <a href="https://isnainoo-personalwebsite.vercel.app/">Personal website</a> •
-  <a href="https://www.linkedin.com/in/isnainoo/">LinkedIn</a> •
-  <a href="isnachoiron73@gmail.com">Email</a>
+  <a href="https://isnainoo-personalwebsite.vercel.app/">Personal website</a> •
+  <a href="https://www.linkedin.com/in/isnainoo/">LinkedIn</a> •
+  <a href="mailto:isnachoiron73@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+<div align="center">
+  
+  <br>
+  
+  **Languages**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=go,py,js,php,java" />
+  </p>
 
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+  **Frontend**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </p>
+  
+  **Backend**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
+  </p>
 
+  **Database**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </p>
 
-# 📊 GitHub Stats
+  **Tools**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isnainoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isnainoo&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnainoo&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+</div>
